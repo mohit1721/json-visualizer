@@ -104,12 +104,6 @@ Pull requests and issue reports welcome! For improvements, add clean commits and
 
 ---
 
-##  Assignment Details
-
-- **Assignment:** APIWIZ Frontend SDE Role
-- **Requirements:** See [[Assignment Description](https://docs.google.com/document/d/1cKgRcSS2s1jCEQeCzW5IqpfRl3gb__YJQE9Z2totdrY/edit?tab=t.0)]
-- **Deadline:** 30th Oct, 2025 - 10:00 PM
-
 ## Evaluation Criteria
 
 - UI/UX and Responsiveness
